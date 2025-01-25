@@ -1,4 +1,5 @@
 # UK-Traffic-Accidents-Classification-Clustering-TimeSeries
+**(Data Science 1st examination project.)**
 
 This project involves data visualization, followed by classification, clustering, and time series analysis of road traffic accidents in the United Kingdom over the period 2005-2017.
 
